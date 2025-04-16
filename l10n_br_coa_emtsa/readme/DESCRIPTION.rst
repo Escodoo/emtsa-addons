@@ -1,0 +1,1 @@
+This module create the EMTSA chart of accounts.

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Copyright 2025 - TODAY, Wesley Oliveira <wesley.oliveira@escodoo.com.br>
+     License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl). -->
+<odoo>
+
+    <!-- TODO: A linha pylint é necessária na versão 7.0.2
+      na versão v9.0.0 pode ser removida -->
+    <!-- pylint:disable=duplicate-xml-record-id -->
+    <!-- oca-hooks:disable=xml-duplicate-record-id -->
+
+    <record id="account_template_emtsa" model="account.chart.template">
+        <field
+            name="property_account_receivable_id"
+            ref="account_template_emtsa_1_1_2_01_001_00001"
+        />
+        <field
+            name="property_account_payable_id"
+            ref="account_template_emtsa_2_1_2_01_001_00001"
+        />
+        <field
+            name="property_account_expense_categ_id"
+            ref="account_template_emtsa_3_2_2_01_004_00015"
+        />
+        <field
+            name="property_account_income_categ_id"
+            ref="account_template_emtsa_4_1_1_01_001_00001"
+        />
+    </record>
+
+    <data noupdate="1">
+        <function model="account.chart.template" name="try_loading">
+            <value eval="[ref('l10n_br_coa_emtsa.account_template_emtsa')]" />
+        </function>
+    </data>
+
+</odoo>

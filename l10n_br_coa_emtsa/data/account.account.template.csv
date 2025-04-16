@@ -1,0 +1,217 @@
+id,code,name,note,account_type,reconcile,chart_template_id:id
+account_template_emtsa_1_1_1_01_001_00001,1.1.1.01.001.00001,Caixa Geral,,asset_cash,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_1_02_002_00001,1.1.1.02.002.00001,Itaú,,asset_cash,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_1_02_003_00001,1.1.1.02.003.00001,Aplicação Auto mais,,asset_cash,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_1_02_003_00002,1.1.1.02.003.00002,Adiantamento de Despesas,,asset_cash,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_1_02_003_00003,1.1.1.02.003.00003,Aplicação CDB,,asset_cash,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_1_02_003_00004,1.1.1.02.003.00004,( - ) Receita Financeira apropriar,,asset_cash,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_1_02_003_00005,1.1.1.02.003.00005,Aplic.XP Investimentos,,asset_cash,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_1_02_003_00006,1.1.1.02.003.00006,Aplic.DI CP FICFI,,asset_cash,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_1_02_003_00007,1.1.1.02.003.00007,Aplicação Compassyel Yeld 30RF,,asset_cash,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_1_02_003_90001,1.1.1.02.003.90001,Transferencia de Liquidez,,asset_current,1,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_2_01_001_00001,1.1.2.01.001.00001,Duplicatas a Receber,,asset_receivable,1,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_001_00001,1.1.3.01.001.00001,Adiantamento de imposto,,asset_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_001_00002,1.1.3.01.001.00002,Seguro Apropriar,,asset_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_001_00003,1.1.3.01.001.00003,Assinaturas - Licença de Uso,,asset_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_001_00004,1.1.3.01.001.00004,Outros valores a receber,,asset_receivable,1,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_006_00001,1.1.3.01.006.00001,Adiantamentos Fornecedores,,asset_prepayments,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_006_00002,1.1.3.01.006.00002,Adiantamento Importação,,asset_prepayments,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_006_00003,1.1.3.01.006.00003,Adiantamento Viagem,,asset_prepayments,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_006_00004,1.1.3.01.006.00004,Adiantamentos Assessoria Técnica,,asset_prepayments,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_006_00005,1.1.3.01.006.00005,Adiantamento Feira,,asset_prepayments,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_007_00001,1.1.3.01.007.00001,Adiantamento Salários,,asset_prepayments,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_007_00002,1.1.3.01.007.00002,Adiantamento 13º salario,,asset_prepayments,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_007_00003,1.1.3.01.007.00003,Adiantamento de Férias,,asset_prepayments,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_008_00001,1.1.3.01.008.00001,Empréstimo a Terceiros,,asset_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_009_00001,1.1.3.01.009.00001,Retenção de terceiros - PIS/COFINS/CSLL,,asset_current,1,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_009_00002,1.1.3.01.009.00002,IRRF S/prestacao de serviços,,asset_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_009_00003,1.1.3.01.009.00003,Pis a recuperar,,asset_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_009_00004,1.1.3.01.009.00004,Cofins a recuperar,,asset_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_009_00005,1.1.3.01.009.00005,CSLL a recuperar,,asset_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_009_00006,1.1.3.01.009.00006,Retenção de terceiros - IR,,asset_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_009_00007,1.1.3.01.009.00007,INSS a compensar,,asset_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_009_00008,1.1.3.01.009.00008,IPI a recuperar,,asset_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_009_00009,1.1.3.01.009.00009,ICMS a recuperar,,asset_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_009_00010,1.1.3.01.009.00010,IR Aplicação Financeira,,asset_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_009_00011,1.1.3.01.009.00011,IRPJ a compensar,,asset_current,1,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_009_00012,1.1.3.01.009.00012,CSLL a compensar,,asset_current,1,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_010_00001,1.1.3.01.010.00001,Estoque Máquinas,,asset_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_010_00002,1.1.3.01.010.00002,Estoque Peças,,asset_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_1_3_01_011_00001,1.1.3.01.011.00001,Remessa para demonstração,,asset_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_01_001_00001,1.2.3.01.001.00001,Casa Residencial Imóvel Matrícula 75.754,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_01_001_00002,1.2.3.01.001.00002,Benfeitoria,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_01_001_00003,1.2.3.01.001.00003,Apto 1503 Edificio San Diego,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_01_001_00004,1.2.3.01.001.00004,Terreno - Edificio San Diego,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_02_001_00001,1.2.3.02.001.00001,Móveis e utensílios,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_02_001_00006,1.2.3.02.001.00006,Equipamento de Informatica,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_02_001_00007,1.2.3.02.001.00007,Equipamento de Telefonia,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_02_001_00008,1.2.3.02.001.00008,Equipamento de Comunicação,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_02_001_00009,1.2.3.02.001.00009,Máquinas e Equipamentos,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_02_001_00010,1.2.3.02.001.00010,Veículo,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_02_001_00011,1.2.3.02.001.00011,Computadores e Periféricos,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_02_001_00012,1.2.3.02.001.00012,Imóvel,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_02_001_00013,1.2.3.02.001.00013,Terreno,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_02_001_00014,1.2.3.02.001.00014,Equipamento de Ar Condicionado,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_02_001_00015,1.2.3.02.001.00015,Instalações - Divisórias,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_02_002_00001,1.2.3.02.002.00001,(-) Depr.Acum.de moveis e utensilios,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_02_002_00002,1.2.3.02.002.00002,(-) Depr.Acum.equip. Inform.,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_02_002_00003,1.2.3.02.002.00003,(-) Depr. Acumuladas de Equip.de Comun.,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_02_002_00006,1.2.3.02.002.00006,(-) Depr. Acumuladas de Equip.Telefonia,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_02_002_00007,1.2.3.02.002.00007,(-) Depr. Acumuladas de Maquinas e Equip,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_02_002_00008,1.2.3.02.002.00008,(-) Depr. Acumuladas de Veiculo,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_02_002_00009,1.2.3.02.002.00009,(-) Depr.Acumuladas de Comp.Perifericos,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_02_002_00010,1.2.3.02.002.00010,(-) Depr.Acumulada de Imovel,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_02_002_00011,1.2.3.02.002.00011,(-) Equipamento de Ar Condicionado,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_02_002_00012,1.2.3.02.002.00012,(-) Depr.Acumulada Instalações,,asset_fixed,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_1_2_3_04_001_00001,1.2.3.04.001.00001,Máquina em poder de terceiros,,asset_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_1_01_001_00001,2.1.1.01.001.00001,Financiamento de Veículos,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_1_02_001_00001,2.1.1.02.001.00001,(-) Juros a apropriar,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_2_01_001_00001,2.1.2.01.001.00001,Fornecedores,,liability_payable,1,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_2_01_002_00001,2.1.2.01.002.00001,Mercadoria em poder de terceiros,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_2_02_001_00001,2.1.2.02.001.00001,Fornecedor Estrangeiro,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_3_01_001_00001,2.1.3.01.001.00001,ISS a recolher,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_3_01_001_00002,2.1.3.01.001.00002,IPI a recolher,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_3_01_001_00003,2.1.3.01.001.00003,Pis a recolher,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_3_01_001_00004,2.1.3.01.001.00004,CSLL a recolher,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_3_01_001_00005,2.1.3.01.001.00005,IRPJ a recolher,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_3_01_001_00006,2.1.3.01.001.00006,COFINS a recolher,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_3_01_001_00007,2.1.3.01.001.00007,IRRF s/ Pró-labore,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_3_01_001_00008,2.1.3.01.001.00008,ICMS a recolher,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_3_01_001_00009,2.1.3.01.001.00009,Retençao de terceiros - PIS/COFINS/CSLL,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_3_01_001_00010,2.1.3.01.001.00010,Retençao de terceiros - IR,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_3_01_001_00011,2.1.3.01.001.00011,Retenção ISS,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_3_01_002_00001,2.1.3.01.002.00001,Parcelamento de IRPJ,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_3_01_002_00002,2.1.3.01.002.00002,Parcelamento de CSLL,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_3_01_002_00003,2.1.3.01.002.00003,Parcelamento de PIS,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_3_01_002_00004,2.1.3.01.002.00004,Parcelamento de COFINS,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_4_01_001_00001,2.1.4.01.001.00001,Salários e ordenados a pagar,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_4_01_001_00002,2.1.4.01.001.00002,Férias a pagar,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_4_01_001_00003,2.1.4.01.001.00003,Pensão alimentícia,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_4_01_002_00001,2.1.4.01.002.00001,INSS a recolher,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_4_01_002_00002,2.1.4.01.002.00002,FGTS a recolher,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_4_01_002_00003,2.1.4.01.002.00003,Contribuiçao Assitencial,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_4_01_002_00004,2.1.4.01.002.00004,Contribuiçao Sindical,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_4_01_002_00005,2.1.4.01.002.00005,INSS Previdenciario,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_4_01_002_00006,2.1.4.01.002.00006,IRRF S/ SALARIO A RECOLHER,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_4_01_003_00001,2.1.4.01.003.00001,Provisão para Férias,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_4_01_003_00002,2.1.4.01.003.00002,Provisão para 13º Salario,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_5_01_001_00001,2.1.5.01.001.00001,Adiantamento de Clientes,,asset_prepayments,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_5_01_001_00002,2.1.5.01.001.00002,Adiantamento de Despesas,,asset_prepayments,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_5_01_001_00003,2.1.5.01.001.00003,Adiantamento Projeto,,asset_prepayments,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_5_01_002_00001,2.1.5.01.002.00001,Contas a Pagar,,liability_payable,1,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_1_5_01_004_00001,2.1.5.01.004.00001,C/C Rosangela,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_2_1_01_001_00001,2.2.1.01.001.00001,Empréstimo Capital de Giro,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_2_1_01_001_00002,2.2.1.01.001.00002,Financiamento Veículo,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_2_1_02_001_00001,2.2.1.02.001.00001,(-) Juros a apropriar,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_2_1_02_002_00001,2.2.1.02.002.00001,Maquina p/posterior venda,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_3_1_01_001_00001,2.3.1.01.001.00001,Capital social,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_3_1_02_001_00001,2.3.1.02.001.00001,( - ) Capital a Integralizar,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_3_1_03_001_00001,2.3.1.03.001.00001,Futuro aumento de capital,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_3_4_01_001_00006,2.3.4.01.001.00006,Lucros e ou Prejuizos Acumulados,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_3_5_01_001_00001,2.3.5.01.001.00001,Ajuste de períodos anteriores,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_2_9_1_01_001_00002,2.9.1.01.001.00002,Conta de zeramento,,liability_current,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_1_1_01_001_00001,3.1.1.01.001.00001,MATERIAL APLICADO,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_1_1_01_003_00003,3.1.1.01.003.00003,Serviços de terceiros,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_001_00001,3.2.2.01.001.00001,Pro - Labore,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_001_00002,3.2.2.01.001.00002,Vale Transporte,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_001_00004,3.2.2.01.001.00004,13º Salario,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_001_00005,3.2.2.01.001.00005,Férias,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_001_00006,3.2.2.01.001.00006,INSS,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_001_00007,3.2.2.01.001.00007,FGTS,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_001_00008,3.2.2.01.001.00008,Exame Médico Ocupacional,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_001_00009,3.2.2.01.001.00009,Provisão de Férias,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_001_00010,3.2.2.01.001.00010,Provisao 13º salário,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_001_00012,3.2.2.01.001.00012,Salários e Ordenados,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_001_00013,3.2.2.01.001.00013,Vale Refeiçao e Transporte,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_001_00014,3.2.2.01.001.00014,Bolsa Auxilio Estagio,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_003_00001,3.2.2.01.003.00001,Simples,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_003_00003,3.2.2.01.003.00003,IPTU,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_003_00004,3.2.2.01.003.00004,IPVA e Licenciamento,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_003_00005,3.2.2.01.003.00005,Taxas diversas,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_003_00006,3.2.2.01.003.00006,Multas de mora,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_003_00007,3.2.2.01.003.00007,Contribuição Social,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_003_00008,3.2.2.01.003.00008,PIS,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_003_00009,3.2.2.01.003.00009,COFINS,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_003_00010,3.2.2.01.003.00010,ISS,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_003_00011,3.2.2.01.003.00011,IRPJ,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_003_00012,3.2.2.01.003.00012,CSLL,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_003_00013,3.2.2.01.003.00013,ICMS,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_003_00014,3.2.2.01.003.00014,IPI S/Vendas,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00001,3.2.2.01.004.00001,Despesas c/provedor de internet,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00002,3.2.2.01.004.00002,Telefone,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00003,3.2.2.01.004.00003,Energia Eletrica,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00004,3.2.2.01.004.00004,Despesa c/cartorio,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00005,3.2.2.01.004.00005,Despesa c/ correio,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00006,3.2.2.01.004.00006,Despesa c/ diversos,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00007,3.2.2.01.004.00007,Depreciaçao,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00008,3.2.2.01.004.00008,Despesa c/ informatica,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00009,3.2.2.01.004.00009,Despesas c/ frete,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00010,3.2.2.01.004.00010,Assistencia Medica e Odontológica,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00011,3.2.2.01.004.00011,Despesas c/ combustivel,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00012,3.2.2.01.004.00012,Despesas c/ estacionamento,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00013,3.2.2.01.004.00013,Despesas c/ bens permanentes,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00014,3.2.2.01.004.00014,Despesas c/ pedágio,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00015,3.2.2.01.004.00015,Despesas c/ escritório,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00016,3.2.2.01.004.00016,Hononário,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00017,3.2.2.01.004.00017,Água e Esgoto,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00018,3.2.2.01.004.00018,Despesa c/Propaganda,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00019,3.2.2.01.004.00019,Aluguel,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00020,3.2.2.01.004.00020,Serviços de terceiros,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00021,3.2.2.01.004.00021,Compra de Mercadoria,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00022,3.2.2.01.004.00022,CMV,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00023,3.2.2.01.004.00023,Despesa c/ locação,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00024,3.2.2.01.004.00024,Condominio e outras despesas,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00025,3.2.2.01.004.00025,Gastos c/ importação,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00026,3.2.2.01.004.00026,Lanches e refeição,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00027,3.2.2.01.004.00027,Assistencia Técnica,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00028,3.2.2.01.004.00028,Uniformes,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00029,3.2.2.01.004.00029,Feiras e Eventos,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00030,3.2.2.01.004.00030,Copa,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00031,3.2.2.01.004.00031,Despesa com gráfica,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00032,3.2.2.01.004.00032,Despesa c/ viagens e estadias,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00034,3.2.2.01.004.00034,Despesa c/ transporte,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00035,3.2.2.01.004.00035,Material uso e consumo,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00036,3.2.2.01.004.00036,Despesa c/ cartão de credito,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00037,3.2.2.01.004.00037,Despesa c/ brindes,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00038,3.2.2.01.004.00038,Seguro de vida,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00039,3.2.2.01.004.00039,Honorarios advocaticios,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00040,3.2.2.01.004.00040,Comissão de vendas,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00041,3.2.2.01.004.00041,Despesas c/ veiculo,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00042,3.2.2.01.004.00042,Bens de pequeno valor,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00043,3.2.2.01.004.00043,Manutenção e conservação,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00044,3.2.2.01.004.00044,Seguro veículo,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00046,3.2.2.01.004.00046,Sistema,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00047,3.2.2.01.004.00047,Reforma predial,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00049,3.2.2.01.004.00049,Prograganda e marketing,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00050,3.2.2.01.004.00050,Cursos,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00051,3.2.2.01.004.00051,Serviço Consultoria,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00052,3.2.2.01.004.00052,Tradução,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00053,3.2.2.01.004.00053,Multas Infração,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00054,3.2.2.01.004.00054,Seguro patrimonial,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00055,3.2.2.01.004.00055,Serviços consultoria financeira,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00056,3.2.2.01.004.00056,Licenca de uso software,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00057,3.2.2.01.004.00057,Material aplicado prestação Serviços,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00058,3.2.2.01.004.00058,Manutenção imobilizado,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00059,3.2.2.01.004.00059,Despachantes,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00060,3.2.2.01.004.00060,Uber / Taxi,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00061,3.2.2.01.004.00061,Alarme,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00062,3.2.2.01.004.00062,Serviços administrativos,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00063,3.2.2.01.004.00063,Serviços de informática,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00064,3.2.2.01.004.00064,Licença de uso software,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_2_01_004_00065,3.2.2.01.004.00065,Perdas,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_3_01_001_00001,3.2.3.01.001.00001,Juros despesas bancárias,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_3_01_001_00002,3.2.3.01.001.00002,Despesas IR s/aplicação,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_3_01_001_00003,3.2.3.01.001.00003,Correção Monetaria,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_3_01_001_00004,3.2.3.01.001.00004,Juros de mora,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_3_01_001_00005,3.2.3.01.001.00005,Juros de Financiamento,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_3_01_001_00006,3.2.3.01.001.00006,IOF,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_3_01_001_00007,3.2.3.01.001.00007,Variação Cambial,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_3_2_3_01_001_00008,3.2.3.01.001.00008,Desconto,,expense,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_4_1_1_01_001_00001,4.1.1.01.001.00001,Venda de Mercadoria,,income,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_4_1_1_01_001_00002,4.1.1.01.001.00002,(-) Devolução de vendas,,income,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_4_1_1_01_001_00003,4.1.1.01.001.00003,Serviços prestado,,income,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_4_1_3_01_001_00001,4.1.3.01.001.00001,Rendimentos de Aplicações,,income,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_4_1_3_01_001_00002,4.1.3.01.001.00002,DESCONTO CONCEDIDO,,income,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_4_1_3_01_001_00003,4.1.3.01.001.00003,Receita financeira,,income,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_4_1_3_01_001_00004,4.1.3.01.001.00004,Juros,,income,,l10n_br_coa_emtsa.account_template_emtsa
+account_template_emtsa_4_2_1_01_001_00001,4.2.1.01.001.00001,Outras receitas,,income,,l10n_br_coa_emtsa.account_template_emtsa
